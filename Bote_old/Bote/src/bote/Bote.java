@@ -7,7 +7,7 @@ package bote;
 
 /**
  *
- * @author 
+ * @author Anabel Cívico
  */
 public class Bote {
     private int contenido;//Centilitros de pintura disponibles en el bote
